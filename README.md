@@ -8,7 +8,7 @@ Date: May 13, 2019
 ## Project Deliverables
 Viewers can see my findings here:
 
-- **project_report:** Discussion of the project scope, all analysis, and final results
+- **project_report.pdf:** Discussion of the project scope, all analysis, and final results
 - **workflow.ipynb:** My workflow reveals all data analysis and deployed machine learning algorithms
 - **poi_id.py:** Final algorithm developed to identify fraudulent employees (Run this code)
 
