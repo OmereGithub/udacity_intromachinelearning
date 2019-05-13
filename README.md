@@ -17,7 +17,7 @@ Viewers can see my findings here:
 Udacity files provided to allow me carry out this project: 
 
 - **enron61702insiderpay.pdf:** Financial data of Enron employees
-- **final_project_dataset.pkl** Pickle file containing structured financial and email data for each employee in this study
+- **final_project_dataset.pkl:** Pickle file containing structured financial and email data for each employee in this study
 - **./tools/feature_format.py:** Contains helper functions that extract features from the provided dataset 
 - **tester.py:** Run this code to confirm that the created final algorithm meets Udacity's minimum performance requirements 
 
